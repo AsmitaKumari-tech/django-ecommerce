@@ -1,2 +1,2 @@
 # django-ecommerce site
-- python manage.py runserver
+- Run : python manage.py runserver
